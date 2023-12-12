@@ -1,0 +1,25 @@
+.header{
+    grid-area: h;
+    background-color: brown;
+
+}
+
+.headerContent{
+    float: right;
+    color: #fff;
+    margin: 10px;
+}
+
+
+/* .loginBlock{
+    float: right;
+    
+} */
+
+.loginBlock a {
+    color: #fff
+}
+/* 
+.idBlock{
+    float: right;
+} */
