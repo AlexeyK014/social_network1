@@ -1,20 +1,20 @@
-.wrapper{
-  display: grid;
-  grid-template-areas: 
-  'h h'
-  'n c';
+.mainPage{
+  background-color: #fbeede;
+  padding-bottom: 30px;
+}
 
-  grid-template-columns: 2fr 10fr;
-  grid-template-rows: 100px 5fr;
-  margin: 0 auto;
+.sider{
+  background: #fbeede;
+  color: #3b2d41;
+  font-family: 'DelaGothicOne';
+  font-weight: 100;
 }
 
 
-
-
-
-.container-wrapper{
-  grid-area: c;
-  background-color: rgb(184, 171, 249);
-  padding: 20px;
+.c li {
+  background: linear-gradient(
+    to bottom right,
+    rgb(246, 192, 139),
+    rgb(250, 219, 184)
+  );
 }
